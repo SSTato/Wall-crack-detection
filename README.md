@@ -17,8 +17,8 @@ Use YOLOv5 to detect whether the wall is cracked.
 ### 文件下载
 
 <details>
-  <summary>训练所需的数据集可在阿里网盘中下载 (click to expand)</summary>
+  <summary>部分训练数据集可在阿里网盘中下载 (click to expand)</summary>
 <p> 链接：https://www.aliyundrive.com/s/iyjfCWJQVDm </p>
-<p>提取码：m6h1 </p>
+<p>提取码：1h6m </p>
 </details>
 
